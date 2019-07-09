@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring boot application deployed using concourse CI
 
 This spring application uses concouse CI to build and deploy your java application on Pivotal Cloud Foundry when a commit push is done on gitHub
@@ -75,3 +76,6 @@ It also uses the `s3` resource to get the deployed jar file. Then finally uses t
 
 
 All these process start by you doing a simple developer action, `git push`
+=======
+# ci-demo
+>>>>>>> cdf97048f999af2171e49f38284705749b243f36
