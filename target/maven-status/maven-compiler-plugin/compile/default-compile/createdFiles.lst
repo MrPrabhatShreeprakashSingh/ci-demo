@@ -1,0 +1,5 @@
+com/eddytnk/springbootconcourse/springbootconcourse/model/Item.class
+com/eddytnk/springbootconcourse/springbootconcourse/controller/ItemController.class
+com/eddytnk/springbootconcourse/springbootconcourse/SpringbootConcourseApplication.class
+com/eddytnk/springbootconcourse/springbootconcourse/service/ItemService.class
+com/eddytnk/springbootconcourse/springbootconcourse/repository/ItemRepository.class

@@ -1,0 +1,5 @@
+/home/user12/Desktop/demo_app_concourse/deploy-springboot-app-using-concourse-ci/src/test/java/com/eddytnk/springbootconcourse/springbootconcourse/model/ItemTest.java
+/home/user12/Desktop/demo_app_concourse/deploy-springboot-app-using-concourse-ci/src/test/java/com/eddytnk/springbootconcourse/springbootconcourse/SpringbootConcourseApplicationTests.java
+/home/user12/Desktop/demo_app_concourse/deploy-springboot-app-using-concourse-ci/src/test/java/com/eddytnk/springbootconcourse/springbootconcourse/service/ItemServiceTest.java
+/home/user12/Desktop/demo_app_concourse/deploy-springboot-app-using-concourse-ci/src/test/java/com/eddytnk/springbootconcourse/springbootconcourse/controller/ItemControllerTest.java
+/home/user12/Desktop/demo_app_concourse/deploy-springboot-app-using-concourse-ci/src/test/java/com/eddytnk/springbootconcourse/springbootconcourse/repository/ItemRepositoryTest.java
